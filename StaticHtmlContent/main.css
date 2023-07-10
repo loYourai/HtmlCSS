@@ -1,0 +1,32 @@
+.firstClass {
+    color: red;
+    text-align: left;
+    font-weight: 600;
+    /*11*/
+}
+
+.secondClass {
+    background-color: white;
+    /*22*/
+}
+
+.myTable {
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+}
+
+.myTable > tbody > tr > #csharp {
+    color: blue;
+    font-weight: 600;
+    border: 2px solid black;
+}
+img {
+    height: 100px;
+    width:350;
+    text-aling: center;
+}
+
+#csharp {
+    color:aqua;
+}
